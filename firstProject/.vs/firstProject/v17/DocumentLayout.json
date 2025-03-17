@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|c:\\users\\m1nij\\minijugstec\\firstproject\\firstproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|solutionrelative:firstproject\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|c:\\users\\m1nij\\minijugstec\\firstproject\\firstproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|solutionrelative:firstproject\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|c:\\users\\m1nij\\minijugstec\\firstproject\\firstproject\\content\\file.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|solutionrelative:firstproject\\content\\file.spritefont||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|c:\\users\\m1nij\\minijugstec\\firstproject\\firstproject\\content\\level1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FABCFFD6-C424-45F6-9081-845160BD03F3}|firstProject\\firstProject.csproj|solutionrelative:firstproject\\content\\level1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Player.cs",
+              "RelativeDocumentMoniker": "firstProject\\Player.cs",
+              "ToolTip": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Player.cs",
+              "RelativeToolTip": "firstProject\\Player.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwCoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:38:30.44Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "level1.txt",
+              "DocumentMoniker": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Content\\level1.txt",
+              "RelativeDocumentMoniker": "firstProject\\Content\\level1.txt",
+              "ToolTip": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Content\\level1.txt",
+              "RelativeToolTip": "firstProject\\Content\\level1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-14T16:52:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.spritefont",
+              "DocumentMoniker": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Content\\File.spritefont",
+              "RelativeDocumentMoniker": "firstProject\\Content\\File.spritefont",
+              "ToolTip": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Content\\File.spritefont",
+              "RelativeToolTip": "firstProject\\Content\\File.spritefont",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-14T16:49:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Game1.cs",
+              "RelativeDocumentMoniker": "firstProject\\Game1.cs",
+              "ToolTip": "C:\\Users\\m1nij\\Minijugstec\\firstProject\\firstProject\\Game1.cs",
+              "RelativeToolTip": "firstProject\\Game1.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAgwJkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T16:37:50.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
